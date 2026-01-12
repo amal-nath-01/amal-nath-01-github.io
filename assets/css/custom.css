@@ -1,0 +1,25 @@
+/* ===== Publication images: stop cropping ===== */
+
+.pub-img,
+.publication-img,
+.paper-img,
+img[src*="assets/img"] {
+  width: 200px !important;
+  height: auto !important;
+  max-height: none !important;
+  object-fit: contain !important;
+}
+
+/* Override container that causes cropping */
+.pub-card,
+.publication,
+.paper {
+  overflow: visible !important;
+}
+
+/* Ensure image wrapper doesn't force square crop */
+.pub-img-wrapper,
+.publication-img-wrapper {
+  height: auto !important;
+  overflow: visible !important;
+}
