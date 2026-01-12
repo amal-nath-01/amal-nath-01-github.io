@@ -4,7 +4,7 @@
 .publication-img,
 .paper-img,
 img[src*="assets/img"] {
-  width: 200px !important;
+  width: 400px !important;
   height: auto !important;
   max-height: none !important;
   object-fit: contain !important;
