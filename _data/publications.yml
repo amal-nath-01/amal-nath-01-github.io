@@ -1,22 +1,67 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+- title: "Acoustofluidic Plasmapheresis System Designed for Ultralow Blood Volume Applications"
+  authors: <strong>Amal Nath</strong>, S.M. Larsson, A. Lenshof, W. Qiu, T. Baasch, L. Nilsson, T. Thymann, S. Pankratova, M. Gram, D. Ley, T. Laurell
+  journal: Analytical Chemistry, 2025
+  doi: https://doi.org/10.1021/acs.analchem.5c04042
+  image: ./assets/img/J11.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+- title: "Acoustophoresis-based blood sampling and plasma separation for potentially minimizing sampling-related blood loss"
+  authors: <strong>Amal Nath</strong>, S.M. Larsson, A. Lenshof, W. Qiu, T. Baasch, L. Nilsson, M. Gram, D. Ley, T. Laurell
+  journal: Clinical Chemistry and Laboratory Medicine, 2025, 63(11), 2218-2225
+  doi: https://www.degruyter.com/document/doi/10.1515/cclm-2025-0539/html
+  image: ./assets/img/J10.png
+
+- title: "Deicing of Sessile Droplets Using Surface Acoustic Waves"
+  authors: K.N. Nampoothiri, <strong>Amal Nath</strong>, N.S. Satpathi, A.K. Sen
+  journal: Langmuir, 2023, 39(11), 3934-3941
+  doi: https://pubs.acs.org/doi/10.1021/acs.langmuir.2c03208
+  image: ./assets/img/J9.png
+
+- title: "Flow of Bidisperse Suspensions under the Influence of Standing Bulk Acoustic Waves"
+  authors: <strong>Amal Nath</strong>, A.K. Sen
+  journal: Physical Review Fluids, 2022, 7(10), 104201
+  doi: https://link.aps.org/doi/10.1103/PhysRevFluids.7.104201
+  image: ./assets/img/J8.png
+
+- title: "Trapping of aqueous droplets under surface acoustic wave-driven streaming in oil-filled microwells"
+  authors: <strong>Amal Nath</strong>, A. Sudeepthi, A.K. Sen
+  journal: Langmuir, 2022, 38(15), 4763-4773
+  doi: https://pubs.acs.org/doi/full/10.1021/acs.langmuir.2c00468
+  image: ./assets/img/J7.png
+
+- title: "Acoustic trapping of particles in microfluidic shaped-traps exposed to bulk acoustic standing waves"
+  authors: L. Malik, <strong>Amal Nath</strong>, T. Laurell, A.K. Sen
+  journal: Physical Review E, 2022, 105(3), 035103
+  doi: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.035103
+  image: ./assets/img/J6.png
+
+- title: "Dynamical motion of a pair of microparticles at the acoustic pressure nodal plane under the combined effect of axial primary radiation and interparticle forces"
+  authors: S.Z. Hoque, <strong>Amal Nath</strong>, A.K. Sen
+  journal: Journal of the Acoustical Society of America, 2021, 150(1), 307–320
+  doi: https://asa.scitation.org/doi/10.1121/10.0005521
+  image: ./assets/img/J5.png
+
+- title: "Dynamics of rigid particles in a confined flow of viscoelastic and strongly shear-thinning fluid at very small Reynolds numbers"
+  authors: S. Hazra, <strong>Amal Nath</strong>, S.K. Mitra, A.K. Sen
+  journal: Physics of Fluids, 2021, 33(5), 052001
+  doi: https://aip.scitation.org/doi/10.1063/5.0046729
+  image: ./assets/img/J4.png
+
+- title: "Combined acoustic relocation and acoustophoretic migration for particle transfer between co-flowing fluids in a microchannel"
+  authors: <strong>Amal Nath</strong>, L. Malik, A.K. Sen
+  journal: Physical Review Fluids, 2021, 6(4), 044201
+  doi: https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.044201
+  image: ./assets/img/J3.png
+
+- title: "Coalescence of Droplets in a Microwell Driven by Surface Acoustic Waves"
+  authors: A. Sudeepthi, <strong>Amal Nath</strong>, L.Y. Yeo, A.K. Sen
+  journal: Langmuir, 2021, 37(4), 1578–1587
+  doi: https://pubs.acs.org/doi/10.1021/acs.langmuir.0c03292
+  image: ./assets/img/J2.png
+
+- title: "Acoustic behavior of a dense suspension in an inhomogeneous flow in a microchannel"
+  authors: <strong>Amal Nath</strong>, A.K. Sen
+  journal: Physical Review Applied, 2019, 12(5), 054009
+  doi: https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.12.054009
+  image: ./assets/img/J1.png
