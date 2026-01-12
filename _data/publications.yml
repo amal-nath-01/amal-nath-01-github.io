@@ -5,7 +5,7 @@ main:
   conference: Analytical Chemistry, 2025
   PDF: https://doi.org/10.1021/acs.analchem.5c04042
   image: ./assets/img/J11.png
-  style: "width:200px; height:auto;"
+  style: "width:300px; height:auto;"
 
 
 - title: "Acoustophoresis-based blood sampling and plasma separation for potentially minimizing sampling-related blood loss"
@@ -13,67 +13,67 @@ main:
   conference: Clinical Chemistry and Laboratory Medicine, 2025, 63(11), 2218-2225
   PDF: https://www.degruyter.com/document/doi/10.1515/cclm-2025-0539/html
   image: ./assets/img/J10.png
-  style: "width:200px; height:auto;"
+  style: "width:300px; height:auto;"
 
 - title: "Deicing of Sessile Droplets Using Surface Acoustic Waves"
   authors: K.N. Nampoothiri, <strong>A. Nath</strong>, N.S. Satpathi, A.K. Sen
   conference: Langmuir, 2023, 39(11), 3934-3941
   PDF: https://pubs.acs.org/doi/10.1021/acs.langmuir.2c03208
   image: ./assets/img/J09.png
-  style: "width:200px; height:auto;"
+  style: "width:300px; height:auto;"
 
 - title: "Flow of Bidisperse Suspensions under the Influence of Standing Bulk Acoustic Waves"
   authors: <strong>A. Nath</strong>, A.K. Sen
   conference: Physical Review Fluids, 2022, 7(10), 104201
   PDF: https://link.aps.org/doi/10.1103/PhysRevFluids.7.104201
   image: ./assets/img/J08.png
-  style: "width:200px; height:auto;"
+  style: "width:300px; height:auto;"
 
 - title: "Trapping of aqueous droplets under surface acoustic wave-driven streaming in oil-filled microwells"
   authors: <strong>A. Nath</strong>, A. Sudeepthi, A.K. Sen
   conference: Langmuir, 2022, 38(15), 4763-4773
   PDF: https://pubs.acs.org/doi/full/10.1021/acs.langmuir.2c00468
   image: ./assets/img/J07.png
-  style: "width:200px; height:auto;"
+  style: "width:300px; height:auto;"
 
 - title: "Acoustic trapping of particles in microfluidic shaped-traps exposed to bulk acoustic standing waves"
   authors: L. Malik, <strong>A. Nath</strong>, T. Laurell, A.K. Sen
   conference: Physical Review E, 2022, 105(3), 035103
   PDF: https://conferences.aps.org/pre/abstract/10.1103/PhysRevE.105.035103
   image: ./assets/img/J06.png
-  style: "width:200px; height:auto;"
+  style: "width:300px; height:auto;"
 
 - title: "Dynamical motion of a pair of microparticles at the acoustic pressure nodal plane under the combined effect of axial primary radiation and interparticle forces"
   authors: S.Z. Hoque, <strong>A. Nath</strong>, A.K. Sen
   conference: conference of the Acoustical Society of America, 2021, 150(1), 307–320
   PDF: https://asa.scitation.org/doi/10.1121/10.0005521
   image: ./assets/img/J05.png
-  style: "width:200px; height:auto;"
+  style: "width:300px; height:auto;"
 
 - title: "Dynamics of rigid particles in a confined flow of viscoelastic and strongly shear-thinning fluid at very small Reynolds numbers"
   authors: S. Hazra, <strong>A. Nath</strong>, S.K. Mitra, A.K. Sen
   conference: Physics of Fluids, 2021, 33(5), 052001
   PDF: https://aip.scitation.org/doi/10.1063/5.0046729
   image: ./assets/img/J04.png
-  style: "width:200px; height:auto;"
+  style: "width:300px; height:auto;"
 
 - title: "Combined acoustic relocation and acoustophoretic migration for particle transfer between co-flowing fluids in a microchannel"
   authors: <strong>A. Nath</strong>, L. Malik, A.K. Sen
   conference: Physical Review Fluids, 2021, 6(4), 044201
   PDF: https://conferences.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.044201
   image: ./assets/img/J03.png
-  style: "width:200px; height:auto;"
+  style: "width:300px; height:auto;"
 
 - title: "Coalescence of Droplets in a Microwell Driven by Surface Acoustic Waves"
   authors: A. Sudeepthi, <strong>A. Nath</strong>, L.Y. Yeo, A.K. Sen
   conference: Langmuir, 2021, 37(4), 1578–1587
   PDF: https://pubs.acs.org/doi/10.1021/acs.langmuir.0c03292
   image: ./assets/img/J02.png
-  style: "width:200px; height:auto;"
+  style: "width:300px; height:auto;"
 
 - title: "Acoustic behavior of a dense suspension in an inhomogeneous flow in a microchannel"
   authors: <strong>A. Nath</strong>, A.K. Sen
   conference: Physical Review Applied, 2019, 12(5), 054009
   PDF: https://conferences.aps.org/prapplied/abstract/10.1103/PhysRevApplied.12.054009
   image: ./assets/img/J01.png
-  style: "width:200px; height:auto;"
+  style: "width:300px; height:auto;"
