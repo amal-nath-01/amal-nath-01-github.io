@@ -51,35 +51,6 @@ I have experience in computational modeling with **MATLAB** and **COMSOL Multiph
 - Technology grant, 2025 — Sten K Johnsons Stiftelse, Sweden, 200,000 SEK, role: main PI  
 - Endowments for Natural Sciences, Medicine and Technology — Technology grant, 2025 — The Royal Physiographic Society, Sweden, 156,010 SEK, role: main PI  
 
----
-
-## Teaching Roles
-
-**As Main Teacher:**  
-- Theoretical Acoustics (Master’s level course, Lund University, 2025)
-
-**As Teaching Assistant:**  
-- Microfluidics and Microfabrication (Master’s level course, IIT Madras, 2017–2020)  
-- Introduction to Thermodynamics (Undergraduate course, IIT Madras, 2021)  
-- Fluid Mechanics and Machinery Lab (Undergraduate course, IIT Madras, 2019)  
-
-**Student Supervision:**  
-- Supervised 1 Bachelor's and 5 Master's theses at IIT Madras and Lund University  
-
----
-
-## Academic Service
-
-- Reviewer for over 15 manuscripts for journals such as Lab on a Chip, Physics of Fluids, Micromachines, Journal of Fluids Engineering  
-- Member of evaluation committees for Acoustofluidics 2025 (Dresden) and Engineering Health 2025 (Helsingborg)  
-
----
-
-## Invited Talks
-
-- *Design of an Efficient Pumping System with Flow Pulsation Dampeners*, Acousort AB, Lund  
-- *Whole Blood Acoustophoresis Maintains Platelet Function*, Klinisk kemi, Skånes universitetssjukhus, Malmö  
-
 
 
 {% include_relative _includes/publications.md %}
