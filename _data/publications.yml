@@ -24,7 +24,6 @@ main:
   conference: Physical Review Fluids, 2022, 7(10), 104201
   page: https://link.aps.org/doi/10.1103/PhysRevFluids.7.104201
   image: ./assets/img/J08.png
-  style: "width:400px; height:auto;"
 
 - title: "Trapping of aqueous droplets under surface acoustic wave-driven streaming in oil-filled microwells"
   authors: <strong>A. Nath</strong>, A. Sudeepthi, A.K. Sen
