@@ -47,8 +47,8 @@ I have experience in computational modeling with **MATLAB** and **COMSOL Multiph
 
 ## Grants Received
 
-- Technology grant, 2025 — Sten K Johnsons Stiftelse, Sweden, 200,000 SEK, role: main PI  
-- Endowments for Natural Sciences, Medicine and Technology — Technology grant, 2025 — The Royal Physiographic Society, Sweden, 156,010 SEK, role: main PI  
+- Technology grant, 2025 - Sten K Johnsons Stiftelse, Sweden, 200,000 SEK
+- Endowments for Natural Sciences, Medicine and Technology - Technology grant, 2025 - The Royal Physiographic Society, Sweden, 156,010 SEK 
 
 
 
