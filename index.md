@@ -12,7 +12,6 @@ I have experience in computational modeling with **MATLAB** and **COMSOL Multiph
 **Contact:**
 - Email: [amalnathm@gmail.com](mailto:amalnathm@gmail.com)  
 - ORCID: [0000-0002-2508-1455](https://orcid.org/0000-0002-2508-1455)  
-- Google Scholar: [Link](https://scholar.google.co.in/citations?user=YehJ4Z4AAAAJ&hl=en)  
 - Address: BMC D1318b, Klinikgatan 32, Lund, Sweden
 
 ---
