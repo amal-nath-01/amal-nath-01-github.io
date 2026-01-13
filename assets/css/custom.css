@@ -1,34 +1,25 @@
 /* ===== Publication images: stop cropping ===== */
 
-.pub-img,
-.publication-img,
-.paper-img,
-img[src*="assets/img"] {
-  width: 400px !important;
+/* Image itself */
+.publication img,
+.paper img,
+.project img {
+  width: 100%;
   height: auto !important;
   max-height: none !important;
   object-fit: contain !important;
 }
 
-/* Override container that causes cropping */
-.pub-card,
+/* Image wrapper / card */
 .publication,
-.paper {
+.paper,
+.project {
   overflow: visible !important;
 }
 
-/* Ensure image wrapper doesn't force square crop */
-.pub-img-wrapper,
-.publication-img-wrapper {
+/* If theme uses an image wrapper */
+.publication-img-wrapper,
+.pub-img-wrapper {
   height: auto !important;
   overflow: visible !important;
-}
-
-/* Fix publication image cropping */
-.publication img,
-.project img,
-.paper img {
-  width: 100%;
-  height: auto !important;
-  object-fit: contain !important;
 }
