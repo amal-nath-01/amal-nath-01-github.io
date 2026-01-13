@@ -23,3 +23,12 @@ img[src*="assets/img"] {
   height: auto !important;
   overflow: visible !important;
 }
+
+/* Fix publication image cropping */
+.publication img,
+.project img,
+.paper img {
+  width: 100%;
+  height: auto !important;
+  object-fit: contain !important;
+}
