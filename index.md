@@ -18,8 +18,7 @@ I have experience in computational modeling with **MATLAB** and **COMSOL Multiph
 
 ## Research Interests
 
-- **Microfluidics:** lab-on-a-chip, acoustofluidics, suspension flows
-- **Fluid Mechanics:** flow phenomena, pulsation dampening  
+- **Microfluidics:** lab-on-a-chip, acoustofluidics
 - **Biomedical Applications:** blood analysis, animal studies, clinically relevant devices  
 - **Computational Modeling:** MATLAB, COMSOL Multiphysics  
 - **Fabrication:** micromilling, 3D printing, photolithography, soft lithography
