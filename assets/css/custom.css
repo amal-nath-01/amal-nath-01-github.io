@@ -1,25 +1,8 @@
-/* ===== Publication images: stop cropping ===== */
-
-/* Image itself */
+/* Make publication thumbnails bigger */
 .publication img,
-.paper img,
-.project img {
-  width: 100%;
-  height: auto !important;
-  max-height: none !important;
-  object-fit: contain !important;
-}
-
-/* Image wrapper / card */
-.publication,
-.paper,
-.project {
-  overflow: visible !important;
-}
-
-/* If theme uses an image wrapper */
-.publication-img-wrapper,
-.pub-img-wrapper {
-  height: auto !important;
-  overflow: visible !important;
+.publication-thumbnail img {
+    max-width: 300px;  /* increase this for larger thumbnails */
+    width: auto !important;
+    height: auto !important;
+    object-fit: cover;
 }
